@@ -1,0 +1,138 @@
+*Gradivo*
+Statisticno sklepanje
+Blazenka Kosmelj
+Tiskani ucbenik
+2007
+1
+statistika ucbenik kosomelj 2007
+prosto
+**
+*Gradivo*
+Matematika 1. Geometrija v ravnini
+Peter Legisa
+Tiskani ucbenik
+2000
+2
+Matematika Geometrija Peter Legisa ucbenik
+izposojeno
+**
+*Gradivo*
+Matematika 1. Realna stevila, linerna funkcija
+Peter Legisa
+Tiskani ucbenik
+2000
+3
+Matematika analiza Realna stevila Peter Legisa ucbenik
+rezervirano
+**
+*Gradivo*
+Teorija organizacije
+Stefan Ivanko
+Tiskani ucbenik
+2015
+4
+Teorija organizacije Stefan Ivanko ucbenik
+prosto
+**
+**
+*Gradivo*
+Python za programerje
+Janez Demsar
+Tiskani ucbenik
+2012
+5
+Python Janez Demsar ucbenik programiranje
+prosto
+**
+*Gradivo*
+Operacijski sistemi
+Damjan Zazula
+Tiskani ucbenik
+2008
+6
+Operacijski sistemi Damjan Zazula ucbenik racunalnistvo
+prosto
+**
+*Gradivo*
+Temelji mikroekonomije
+Nevenka Hrovatin
+Tiskani ucbenik
+2013
+7
+Temelji mikroekonomije Nevenka Hrovatin ekonomija 2013
+izposojeno
+**
+*Gradivo*
+Nacrtovanje relacijskih podatkovnih baz
+Tomaz Mohoric
+Tiskani ucbenik
+1997
+8
+podatkovne baze Tomaz Mohoric ucbenik racunalnistvo
+rezervirano
+**
+*Gradivo*
+Poslovno pravo osnove s prakticnimi primeri
+Jaka Cepec
+Tiskani ucbenik
+2018
+9
+pravo Cepec ucbenik
+prosto
+**
+**
+*Gradivo*
+Uvod v informatiko
+Peter Suhel
+Tiskani ucbenik
+2011
+10
+informatika racunalnistvo programiranje
+prosto
+**
+*Gradivo*
+Zbogom in hvala za vse ribe
+Douglas Adams
+Roman
+2015
+11
+stoparski vodnik znanstvena fantastika potovanja proza leposlovje
+prosto
+**
+*Gradivo*
+Stoparski vodnik po Galaksiji
+Douglas Adams
+Roman
+2017
+12
+stoparski vodnik znanstvena fantastika potovanja proza leposlovje
+izposojeno
+**
+*Gradivo*
+Jeklene votline
+Isaac Asimov
+Roman
+1986
+13
+znanstvena fantastika roboti proza
+rezervirano
+**
+*Gradivo*
+Golo sonce
+Isaac Asimov
+Roman
+1986
+14
+znanstvena fantastika roboti proza
+prosto
+**
+**
+*Gradivo*
+Planet sedmih sonc
+Arthur Clarke
+Roman
+1966
+15
+znanstvena fantastika proza leposlovje
+prosto
+**
